@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning many things - it is hard to think of one specific skill that I want to master.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 I can be reached via email: dominikbartkowski[at]gmail[dot]com or dbrtk[at]protonmail[dot]com
-- You can support my work here: https://paypal.me/DBartkowski
 - Checkout my twitter account: https://twitter.com/dmkbrtk
 
 <!---
