@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ... 
 - 📫 I can be reached via email: dominikbartkowski[at]gmail[dot]com or dbrtk[at]protonmail[dot]com
 - Checkout my twitter account: https://twitter.com/dmkbrtk
-- You can support my work here: https://paypal.me/DBartkowski
 
 <!---
 dbrtk/dbrtk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
